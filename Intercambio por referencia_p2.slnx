@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Intercambio por referencia_p2/Intercambio por referencia_p2.vcxproj" />
+</Solution>

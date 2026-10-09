@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Struct Alumno_p2/Struct Alumno_p2.vcxproj" />
+</Solution>

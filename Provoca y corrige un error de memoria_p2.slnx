@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Provoca y corrige un error de memoria_p2/Provoca y corrige un error de memoria_p2.vcxproj" />
+</Solution>
